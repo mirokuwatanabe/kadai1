@@ -36,12 +36,12 @@ echo 1 > /dev/myled0
 
 youtubeにアップ済み
 ```
-[LED timer]
+ [LED timer]
 (https://youtu.be/1AHgrck_Brk)
 ```
 ## ライセンス
 
 ```
-[GNU General Public License]
+ [GNU General Public License]
 (https://github.com/mirokuwatanabe/kadai1/blob/553b6a600fd91a45b983abfa87a5f41cab04e293/LICENSE)
 ```
