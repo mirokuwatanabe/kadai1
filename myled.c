@@ -80,7 +80,7 @@ static ssize_t led_write(struct file* flip, const  char* buf, size_t count, loff
                 gpio_base[10] = 1 << 22;
         }
 	
-	else if(c == '1')
+	else if(c == '1')//mainmode
         {
                 k = 180; 
 
