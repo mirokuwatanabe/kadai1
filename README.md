@@ -35,8 +35,13 @@ echo 1 > /dev/myled0
 ## 実行結果
 
 youtubeにアップ済み
-https://youtu.be/1AHgrck_Brk
-
+```
+[LED timer]
+(https://youtu.be/1AHgrck_Brk)
+```
 ## ライセンス
 
-https://github.com/mirokuwatanabe/kadai1/blob/553b6a600fd91a45b983abfa87a5f41cab04e293/LICENSE
+```
+[GNU General Public License]
+(https://github.com/mirokuwatanabe/kadai1/blob/553b6a600fd91a45b983abfa87a5f41cab04e293/LICENSE)
+```
