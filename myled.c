@@ -25,7 +25,7 @@ static ssize_t led_write(struct file* flip, const  char* buf, size_t count, loff
 		return -EFAULT;
 	}
 
-	if(c == '0')//demo
+	if(c == '0')//demomode
 	{
 		k = 30;
 	for(i = 1; i <= k; i++)
