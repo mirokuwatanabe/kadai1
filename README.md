@@ -1,4 +1,4 @@
-# ロボットシステム学
+# driver for LED 3minutes timer
 
 ## 概要
 
@@ -16,10 +16,10 @@
 3. sudo chmod 666 /dev/myled0
 ```
 ## アンインストール
-``
+```
 1. sudo rmmod myled
 2. make clean
-``
+```
 ## 実行方法
 
 ### demomode(30秒)
